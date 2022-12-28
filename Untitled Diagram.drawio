@@ -1,20 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T21:53:45.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="V6DXyTC_8Xly7jfU3Ajg" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T22:18:05.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="QQz0LxHu2hD-imilAHkH" type="github">
   <diagram id="Ju4u09LskTiRAbeZ_m5J" name="Page-1">
-    <mxGraphModel dx="538" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zZKbL9tinufXiHi_ggS--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--1" target="zZKbL9tinufXiHi_ggS--2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zZKbL9tinufXiHi_ggS--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--1" target="zZKbL9tinufXiHi_ggS--2">
+        <mxCell id="zZKbL9tinufXiHi_ggS--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--1" target="zZKbL9tinufXiHi_ggS--5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zZKbL9tinufXiHi_ggS--1" value="Sign-up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zZKbL9tinufXiHi_ggS--2" value="Sign-up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="zZKbL9tinufXiHi_ggS--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--5" target="zZKbL9tinufXiHi_ggS--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--5" value="Required Information Form" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;shape=link;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--7" target="zZKbL9tinufXiHi_ggS--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--13" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--7" target="zZKbL9tinufXiHi_ggS--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Email (This will&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;use for username.)" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--17" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--9" target="zZKbL9tinufXiHi_ggS--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--19" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--9" target="zZKbL9tinufXiHi_ggS--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--9" value="Phone" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--15" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--12" target="zZKbL9tinufXiHi_ggS--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--12" value="Password" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--26" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=12;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--14" target="zZKbL9tinufXiHi_ggS--25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--14" value="City, township&amp;nbsp; and School" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="360" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--16" value="Name/Surname" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--18" value="OTP Entegration" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="530" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--20" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;If we want to create the user pass. &lt;br&gt;we can use the OTP and send them their created pass.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="450" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=6;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="80" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;This steps will just use to get data from teacher to determine is it teacher or not.&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="650" width="225" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=12;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--25" target="zZKbL9tinufXiHi_ggS--27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--25" value="Teachership Document" style="triangle;whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="370" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--27" value="Boarding Team will get this documents and after analysing the user will be active, suspended." style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="750" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=12;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--29" target="zZKbL9tinufXiHi_ggS--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=12;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="740" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=12;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--30" target="zZKbL9tinufXiHi_ggS--34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1370" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--30" value="In this part, we have a user panel which will be using for user control. There will be 4 option for every user profile.&amp;nbsp;" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="745" width="125" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--34" value="1. Reviewing: (User information is checking to determine is she/he teacher.)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="630" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=12;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--36" target="zZKbL9tinufXiHi_ggS--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--36" value="2. Active: For active teachers." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="720" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=12;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--38" target="zZKbL9tinufXiHi_ggS--30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1400" y="845" />
+              <mxPoint x="1400" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--38" value="3. Suspended: For illegal utilizations&amp;nbsp; and not being teacher situations." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="810" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=12;" edge="1" parent="1" source="zZKbL9tinufXiHi_ggS--40" target="zZKbL9tinufXiHi_ggS--30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1370" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZKbL9tinufXiHi_ggS--40" value="4. Deleted: For deleted accounts by user side." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="900" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
